@@ -1,0 +1,6 @@
+#name : begin ... end
+#group : general
+# --
+begin
+  $0
+end

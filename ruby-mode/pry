@@ -1,0 +1,4 @@
+#name : pry
+#group : general
+# --
+require 'pry'; binding.pry
