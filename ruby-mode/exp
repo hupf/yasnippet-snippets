@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rspec expect
+# key: exp
+# --
+expect($1).to eq($0)
