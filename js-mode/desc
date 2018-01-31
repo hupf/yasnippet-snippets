@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 #name : jasmine describe()
 # --
-describe('$1', function() {
+describe('$1', () => {
   $0
 });
